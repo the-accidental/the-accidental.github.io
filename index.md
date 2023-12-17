@@ -9,3 +9,5 @@ My name’s Iain Wallace. I’m lots of things. Professionally, hard to explain,
 At present, I'm the Director of Machine Learning and Tracking Research for [Ultraleap](https://www.ultraleap.com). I've held other roles in autonomy and ML with titles like CTO, CSO, Chief Engineer etc. 
 
 You can find me, and contact me, [on LinkedIn here](https://uk.linkedin.com/in/iawallace).
+
+An archive of my public research [is online here](research.html). 
