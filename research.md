@@ -4,6 +4,8 @@ This is a place to collect some info on my publications, and previous research.
 I hope to add some of my current and newer work too, as it becomes public. My work is mostly
 in the area of AI in general, and specifically robotics and perception. 
 
+Selected [public talks and media are availible here.](./talks_media.html)
+
 An overview of [my PhD and MSc work is preserved here.](./phd.html)
 
 ## Publications & Selected Invited Talks

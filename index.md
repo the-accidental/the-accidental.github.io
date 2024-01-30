@@ -10,4 +10,6 @@ At present, I'm the Director of Machine Learning and Tracking Research for [Ultr
 
 You can find me, and contact me, [on LinkedIn here](https://uk.linkedin.com/in/iawallace).
 
+Selected [public talks and media are availible here.](./talks_media.html)
+
 An archive of my public research [is online here](research.html). 
