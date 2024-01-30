@@ -26,6 +26,6 @@ An archive of my public research [is online here](research.html).
 
 ## Media
 
-UKRI/Innovate UK Blog Post - Working toward Autonomous Underwater Vehicles [Archive Link](https://web.archive.org/web/20190112050905/https://innovateuk.blog.gov.uk/2019/01/04/working-towards-autonomous-underwater-vehicles/)
+UKRI/Innovate UK Blog Post - [Working toward Autonomous Underwater Vehicles (Archive Link)](https://web.archive.org/web/20190112050905/https://innovateuk.blog.gov.uk/2019/01/04/working-towards-autonomous-underwater-vehicles/)
 
 [Previous space robotics work](https://iainwallace.wordpress.com/2016/02/07/what-do-i-do/)
