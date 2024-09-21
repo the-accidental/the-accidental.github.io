@@ -10,6 +10,8 @@ An overview of [my PhD and MSc work is preserved here.](./phd.html)
 
 ## Publications & Selected Invited Talks
 
+Prarthana Bhattacharyya, Joshua Mitton, Ryan Page, Owen Morgan, Ben Menzies, Gabriel Homewood, Kemi Jacobs, Paolo Baesso, David Trickett, Chris Mair, Taru Muhonen, Rory Clark, Louis Berridge, Richard Vigars and Iain Wallace, ‘Helios: An extremely low power event-based gesture recognition for always-on smart eyewear’, in ECCV'24 Integrating Computer Vision in Smart Eyewear, 2024. 
+
 P. Rendell, I. Wallace, M. Woods, and D. Long, ‘PMOPS: The Planetary Mission On-Board Planner and Scheduler’, in Proc. 14th Symposium on Advanced Space Technologies in Robotics and Automation, 2017.
 
 I. Wallace, M. Woods, ‘Exploring and Exploiting Large Field Trial Datasets for Perception and Simulation’, in Proc. 14th Symposium on Advanced Space Technologies in Robotics and Automation, 2017.
