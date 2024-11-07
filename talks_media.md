@@ -2,7 +2,7 @@
 
 I’ve collected a selection of some of my public talks and presentations, where they’ve been recorded and made available online.
 
-An archive of my public research [is online here](research.html). 
+An archive of my public research and patents [is online here](research.html). 
 
 ## Talks
 

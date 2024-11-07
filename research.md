@@ -1,6 +1,6 @@
-# Research
+# Research and Patents
 
-This is a place to collect some info on my publications, and previous research. 
+This is a place to collect some info on my patents, publications, and previous research. 
 I hope to add some of my current and newer work too, as it becomes public. My work is mostly
 in the area of AI in general, and specifically robotics and perception. 
 
@@ -55,3 +55,13 @@ Z. Chen, Z. Husz, I. Wallace, A. Wallace, **Video Object Tracking Based on a Cha
 I. Wallace, **A mean-shift tracker: implementations in C++ and Hume**, Technical Report HW-MACS-TR-0035, Heriot-Watt Technical Report Series 2005
 
 Iain Wallace, **A Hybrid Architecture for Robotic Soccer**, MEng thesis, University of York, 2006.
+
+## Patents
+
+- [**Computing Device and Method for Video Object Detection**](https://patents.google.com/patent/EP3877895A1/) - EP3877895A1 (2021)
+- [**Method and System for Colour Video Processing**](https://patents.google.com/patent/WO2021058347A1/) - WO2021058347A1 (2021)
+- [**Method and System for Subsea Colour Video Processing**](https://patents.google.com/patent/GB2581549B/) - GB2581549B (2021)
+- [**Subsea Surveying System**](https://patents.google.com/patent/GB2582554A/) - GB2582554A (2020)
+- [**Surveying System for Surveying in Harsh Environments**](https://patents.google.com/patent/EP3942254A1/) - EP3942254A1 (2020)
+- [**Camera Module and Multi Camera System for Harsh Environments**](https://patents.google.com/patent/US11457144B2/) - US11457144B2 (2019)
+- [**Subsea Camera Module and Multi Camera System**](https://patents.google.com/patent/GB2570748A/) - GB2570748A (2019)
