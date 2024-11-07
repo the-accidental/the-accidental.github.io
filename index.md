@@ -12,4 +12,4 @@ You can find me, and contact me, [on LinkedIn here](https://uk.linkedin.com/in/i
 
 Selected [public talks and media are availible here.](./talks_media.html)
 
-An archive of my public research [is online here](research.html). 
+An archive of my public research, and list of patents, [is online here](research.html). 
