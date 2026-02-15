@@ -16,4 +16,3 @@ An archive of my public research, and list of patents, [is online here](research
 
 My [Google Scholar profile is here](https://scholar.google.com/citations?user=nhA40b4AAAAJ&hl=en).
 
-.
